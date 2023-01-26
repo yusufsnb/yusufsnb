@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Yusuf Sina
+### I develop robotic automation projects and desktop software for these projects
 #### I am Web/Mobile Developer
 
 Skills : 
